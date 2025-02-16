@@ -1,4 +1,4 @@
-"""Hugging Face -> Github for AI Models
+""""Hugging Face -> Github for AI Models
 1 . Pipeline-> NLP Task-> Tokenize -> Data Set Load-> Fine Tune"""
 
 import transformers
@@ -7,7 +7,7 @@ from transformers import pipeline
 
 How to do it Hugging face Models -> Read Docs 
 
-TASK_VARIABLE=TASK_NAME('TASK PERFORMED ', MODEL_NAME )"""
+TASK_VARIABLE=Pipeline ('TASK PERFORMED ', MODEL_NAME )"""
 
 
 # # 1. Classification 
