@@ -1,0 +1,7 @@
+langchain
+ipykernel
+streamlit 
+ollama 
+transformers 
+torch
+pandas
